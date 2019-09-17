@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19550" started-at="2019-03-22T16:14:43Z" finished-at="2019-03-22T16:15:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19550" started-at="2019-03-22T16:14:43Z" finished-at="2019-03-22T16:15:02Z">
+      <class name="SeleniumPackage.AjaxcallHandling">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumPackage.AjaxcallHandling@28feb3fa]" name="setUp" is-config="true" duration-ms="15862" started-at="2019-03-22T16:14:43Z" finished-at="2019-03-22T16:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ajaxCall()[pri:0, instance:SeleniumPackage.AjaxcallHandling@28feb3fa]" name="ajaxCall" duration-ms="3661" started-at="2019-03-22T16:14:59Z" finished-at="2019-03-22T16:15:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajaxCall -->
+      </class> <!-- SeleniumPackage.AjaxcallHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
